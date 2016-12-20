@@ -7,7 +7,3 @@ I'm curious, I enjoy understanding how something works, I like to create things 
 I'm shy, introvert, but if the right person is with me, I talk a lot. 
 I can be stubborn when trying to understand something, which means I may ask a lot of "why" and "how" and some people gey annoyed by that.
 I hope to one day be part of a team in a big company that delivers helpful services to millions of people or create my own company or service.
-
-
-===
-this line would be better
