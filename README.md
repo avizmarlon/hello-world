@@ -6,7 +6,7 @@ I enjoy technology and I'm currently on a journey to understand how it works, le
 
 I'm curious, I enjoy understanding how something works, I like to create things that people will use and this is probably why I'm attracted to programming.
 
-I'm shy, introvert, but if the right person is with me, I talk a lot. 
+I'm shy, introvert, but if the right person is with me, I become more comfortable and express myself more freely, I even talk a lot.
 
 I can be stubborn when trying to understand something, which means I may ask a lot of "why" and "how" and some people gey annoyed by that.
 
