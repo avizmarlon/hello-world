@@ -1,5 +1,5 @@
 # hello-world
-tutorial repository, as part of the GitHub 'hello world guide'.
+Tutorial repository, as part of the GitHub 'hello world guide'.
 
 # about me
 I enjoy technology and I'm currently on a journey to understand how it works, learning programming, git/github, web-dev and bash, after learning this, I'll see what I will learn next.
